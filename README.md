@@ -3,7 +3,10 @@
 mojoPortal is an extensible, cross database, mobile friendly, web content management system (CMS), and web application framework written in C# ASP.NET (ASPX).
 
 + Full WYSIWYG (CKEditor, TinyMCE)
-+ MS SQL Server, PostgreSQL, MySQL, SQLite, SQL CE
++ PayPal
++ MS SQL Server, SQL CE, SQLite, PostgreSQL, MySQL, Firebird
++ https://github.com/gtechsltn/neatupload
++ https://github.com/i7media/mojoportal
 + https://github.com/i7MEDIA/mojoportal/releases/
 + https://www.mojoportal.com/docs/install-and-admin/
 
