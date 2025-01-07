@@ -8,6 +8,7 @@ mojoPortal is an extensible, cross database, mobile friendly, web content manage
 + https://github.com/gtechsltn/neatupload
 + https://github.com/i7media/mojoportal
 + https://github.com/i7MEDIA/mojoportal/releases/
++ https://www.mojoportal.com/docs
 + https://www.mojoportal.com/docs/install-and-admin/
 
 ## Features
