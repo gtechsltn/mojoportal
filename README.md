@@ -1,5 +1,10 @@
 # mojoportal
-mojoPortal is an extensible, cross database, mobile friendly, web content management system (CMS), and web application framework written in C# ASP.NET.
+
+mojoPortal is an extensible, cross database, mobile friendly, web content management system (CMS), and web application framework written in C# ASP.NET (ASPX).
+
++ Full WYSIWYG (CKEditor, TinyMCE)
++ MS SQL Server, PostgreSQL, MySQL, SQLite
++ https://github.com/i7MEDIA/mojoportal/releases/
 
 ## Features
 - [Blog](https://www.mojoportal.com/docs/blog)
@@ -22,3 +27,7 @@ mojoPortal is an extensible, cross database, mobile friendly, web content manage
 - [Fundraiser System](https://www.mojoportal.com/fund-raiser-pro-product) similar to kickstarter
 
 More information available at [www.mojoportal.com](https://www.mojoportal.com)
+
+# References
+
+https://github.com/gtechsltn/WebVella-ERP
