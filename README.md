@@ -5,6 +5,7 @@ mojoPortal is an extensible, cross database, mobile friendly, web content manage
 + Full WYSIWYG (CKEditor, TinyMCE)
 + MS SQL Server, PostgreSQL, MySQL, SQLite, SQL CE
 + https://github.com/i7MEDIA/mojoportal/releases/
++ https://www.mojoportal.com/docs/install-and-admin/
 
 ## Features
 - [Blog](https://www.mojoportal.com/docs/blog)
